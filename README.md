@@ -4,6 +4,7 @@
 
 Ce projet implémente un système de suivi d'objets dans des vidéos en utilisant la méthode de sélection de ROI (Region of Interest).
 
+https://github.com/user-attachments/assets/88f83343-2bf0-4c13-a742-6b6d600ee2a6
 ## Structure du projet
 
 ```
